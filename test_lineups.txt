@@ -1,0 +1,125 @@
+Dewayne Dedmon;Taurean Prince;John Collins;Kevin Huerter;Trae Young
+Kent Bazemore;Dewayne Dedmon;John Collins;Kevin Huerter;Trae Young
+Dewayne Dedmon;DeAndre' Bembry;John Collins;Kevin Huerter;Trae Young
+Al Horford;Kyrie Irving;Marcus Morris;Marcus Smart;Jayson Tatum
+Al Horford;Gordon Hayward;Kyrie Irving;Jaylen Brown;Jayson Tatum
+Jared Dudley;Joe Harris;D'Angelo Russell;Caris LeVert;Jarrett Allen
+Joe Harris;D'Angelo Russell;Treveon Graham;Jarrett Allen;Rodions Kurucs
+Joe Harris;D'Angelo Russell;Rondae Hollis-Jefferson;Jarrett Allen;Rodions Kurucs
+Marvin Williams;Nicolas Batum;Kemba Walker;Jeremy Lamb;Cody Zeller
+Marvin Williams;Nicolas Batum;Bismack Biyombo;Kemba Walker;Jeremy Lamb
+Justin Holiday;Zach LaVine;Jabari Parker;Ryan Arcidiacono;Wendell Carter Jr.
+Robin Lopez;Otto Porter Jr.;Zach LaVine;Kris Dunn;Lauri Markkanen
+Justin Holiday;Kris Dunn;Ryan Arcidiacono;Lauri Markkanen;Wendell Carter Jr.
+Justin Holiday;Zach LaVine;Jabari Parker;Cameron Payne;Wendell Carter Jr.
+Alec Burks;Rodney Hood;Cedi Osman;Ante Zizic;Collin Sexton
+Kevin Love;Brandon Knight;Cedi Osman;Ante Zizic;Collin Sexton
+DeAndre Jordan;Wesley Matthews;Harrison Barnes;Dennis Smith Jr.;Luka Doncic
+DeAndre Jordan;Wesley Matthews;Harrison Barnes;Jalen Brunson;Luka Doncic
+DeAndre Jordan;Harrison Barnes;Dorian Finney-Smith;Dennis Smith Jr.;Luka Doncic
+Dwight Powell;Dorian Finney-Smith;Maxi Kleber
+DeAndre Jordan;Wesley Matthews;Harrison Barnes;Maxi Kleber;Luka Doncic
+Paul Millsap;Will Barton;Gary Harris;Nikola Jokic;Jamal Murray
+Paul Millsap;Gary Harris;Nikola Jokic;Jamal Murray;Torrey Craig
+Mason Plumlee;Trey Lyles;Malik Beasley;Jamal Murray;Monte Morris
+Paul Millsap;Gary Harris;Nikola Jokic;Jamal Murray;Juancho Hernangomez
+Mason Plumlee;Nikola Jokic;Jamal Murray;Juancho Hernangomez;Torrey Craig
+Paul Millsap;Nikola Jokic;Malik Beasley;Jamal Murray;Torrey Craig
+Mason Plumlee;Trey Lyles;Malik Beasley;Juancho Hernangomez;Monte Morris
+Blake Griffin;Reggie Jackson;Andre Drummond;Reggie Bullock;Bruce Brown
+Blake Griffin;Wayne Ellington;Reggie Jackson;Andre Drummond;Bruce Brown
+Blake Griffin;Reggie Jackson;Andre Drummond;Reggie Bullock;Glenn Robinson III
+Blake Griffin;Reggie Jackson;Andre Drummond;Reggie Bullock;Stanley Johnson
+Blake Griffin;Reggie Jackson;Andre Drummond;Reggie Bullock;Luke Kennard
+Ish Smith;Langston Galloway;Thon Maker;Luke Kennard
+Kevin Durant;Stephen Curry;Klay Thompson;Draymond Green;Kevon Looney
+Kevin Durant;Stephen Curry;DeMarcus Cousins;Klay Thompson;Draymond Green
+Andre Iguodala;Kevin Durant;Stephen Curry;Klay Thompson;Draymond Green
+Kevin Durant;Stephen Curry;Klay Thompson;Draymond Green;Damian Jones
+Andre Iguodala;Kevin Durant;Stephen Curry;Klay Thompson;Kevon Looney
+Chris Paul;PJ Tucker;Eric Gordon;James Harden;Clint Capela
+Chris Paul;PJ Tucker;James Harden;James Ennis III;Clint Capela
+PJ Tucker;Eric Gordon;James Harden;Clint Capela;Danuel House Jr.
+PJ Tucker;Eric Gordon;James Harden;James Ennis III;Clint Capela
+PJ Tucker;James Harden;Austin Rivers;Clint Capela;Danuel House Jr.
+Chris Paul;PJ Tucker;Eric Gordon;James Harden
+Thaddeus Young;Bojan Bogdanovic;Victor Oladipo;Myles Turner
+Thaddeus Young;Wesley Matthews;Bojan Bogdanovic;Myles Turner
+Thaddeus Young;Bojan Bogdanovic;Myles Turner
+Thaddeus Young;Cory Joseph;Doug McDermott;Domantas Sabonis
+Thaddeus Young;Bojan Bogdanovic;Victor Oladipo;Domantas Sabonis
+Cory Joseph;Bojan Bogdanovic;Doug McDermott;Domantas Sabonis
+Cory Joseph;Doug McDermott;Domantas Sabonis;TJ Leaf
+Thaddeus Young;Cory Joseph;Bojan Bogdanovic;Myles Turner
+Danilo Gallinari;Avery Bradley;Tobias Harris;Shai Gilgeous-Alexander
+Danilo Gallinari;Patrick Beverley;Ivica Zubac;Shai Gilgeous-Alexander;Landry Shamet
+Danilo Gallinari;Patrick Beverley;Avery Bradley;Tobias Harris
+Lou Williams;Patrick Beverley;Mike Scott;Montrezl Harrell;Tyrone Wallace
+Patrick Beverley;Avery Bradley;Tobias Harris;Shai Gilgeous-Alexander
+LeBron James;JaVale McGee;Brandon Ingram;Lonzo Ball;Kyle Kuzma
+LeBron James;JaVale McGee;Lonzo Ball;Kyle Kuzma;Josh Hart
+Mike Conley;Marc Gasol;Garrett Temple;Kyle Anderson;Jaren Jackson Jr.
+Mike Conley;Marc Gasol;Garrett Temple;JaMychal Green;Kyle Anderson
+James Johnson;Hassan Whiteside;Rodney McGruder;Justise Winslow;Josh Richardson
+Dion Waiters;Kelly Olynyk;Justise Winslow;Josh Richardson;Bam Adebayo
+Brook Lopez;Eric Bledsoe;Khris Middleton;Giannis Antetokounmpo;Malcolm Brogdon
+Brook Lopez;Eric Bledsoe;Khris Middleton;Giannis Antetokounmpo;Sterling Brown
+Andrew Wiggins;Dario Saric;Tyus Jones;Karl-Anthony Towns;Josh Okogie
+Jeff Teague;Taj Gibson;Robert Covington;Andrew Wiggins;Karl-Anthony Towns
+Derrick Rose;Jeff Teague;Taj Gibson;Andrew Wiggins;Karl-Anthony Towns
+Jeff Teague;Taj Gibson;Andrew Wiggins;Karl-Anthony Towns;Josh Okogie
+Jrue Holiday;E'Twaun Moore;Anthony Davis
+Jrue Holiday;E'Twaun Moore;Anthony Davis;Elfrid Payton;Julius Randle
+Jrue Holiday;Anthony Davis;Solomon Hill;Julius Randle;Tim Frazier
+Enes Kanter;Tim Hardaway Jr.;Noah Vonleh;Emmanuel Mudiay;Kevin Knox
+Enes Kanter;Tim Hardaway Jr.;Noah Vonleh;Emmanuel Mudiay;Mario Hezonja
+Tim Hardaway Jr.;Noah Vonleh;Emmanuel Mudiay;Luke Kornet;Kevin Knox
+Russell Westbrook;Paul George;Steven Adams;Jerami Grant;Terrance Ferguson
+Russell Westbrook;Paul George;Dennis Schroder;Steven Adams;Jerami Grant
+Russell Westbrook;Dennis Schroder;Steven Adams;Jerami Grant;Terrance Ferguson
+Paul George;Dennis Schroder;Steven Adams;Jerami Grant;Terrance Ferguson
+D.J. Augustin;Nikola Vucevic;Evan Fournier;Aaron Gordon;Jonathan Isaac
+D.J. Augustin;Nikola Vucevic;Terrence Ross;Evan Fournier;Aaron Gordon
+D.J. Augustin;Nikola Vucevic;Evan Fournier;Aaron Gordon;Wes Iwundu
+Terrence Ross;Aaron Gordon;Mo Bamba
+D.J. Augustin;Nikola Vucevic;Terrence Ross;Evan Fournier;Jonathan Isaac
+D.J. Augustin;Nikola Vucevic;Evan Fournier;Aaron Gordon
+D.J. Augustin;Nikola Vucevic;Evan Fournier;Jonathan Isaac;Wes Iwundu
+JJ Redick;Wilson Chandler;Jimmy Butler;Joel Embiid;Ben Simmons
+JJ Redick;Tobias Harris;Jimmy Butler;Joel Embiid;Ben Simmons
+JJ Redick;Robert Covington;Joel Embiid;Dario Saric;Ben Simmons
+T.J. Warren;Devin Booker;Mikal Bridges;De'Anthony Melton;Deandre Ayton
+Trevor Ariza;T.J. Warren;Devin Booker;Deandre Ayton
+Al-Farouq Aminu;Damian Lillard;Maurice Harkless;CJ McCollum;Jusuf Nurkic
+Al-Farouq Aminu;Damian Lillard;CJ McCollum;Jusuf Nurkic;Jake Layman
+Evan Turner;Al-Farouq Aminu;Damian Lillard;CJ McCollum;Jusuf Nurkic
+Evan Turner;Meyers Leonard;Seth Curry;Zach Collins
+Nemanja Bjelica;Willie Cauley-Stein;Buddy Hield;De'Aaron Fox
+Nemanja Bjelica;Harrison Barnes;Willie Cauley-Stein;Buddy Hield;De'Aaron Fox
+Harrison Barnes;Bogdan Bogdanovic;Willie Cauley-Stein;Buddy Hield;De'Aaron Fox
+Nemanja Bjelica;Bogdan Bogdanovic;Willie Cauley-Stein;Buddy Hield;De'Aaron Fox
+LaMarcus Aldridge;Rudy Gay;DeMar DeRozan;Bryn Forbes;Derrick White
+LaMarcus Aldridge;DeMar DeRozan;Jakob Poeltl;Bryn Forbes;Derrick White
+LaMarcus Aldridge;Rudy Gay;DeMar DeRozan;Bryn Forbes
+LaMarcus Aldridge;DeMar DeRozan;Davis Bertans;Bryn Forbes;Derrick White
+LaMarcus Aldridge;Rudy Gay;Marco Belinelli;DeMar DeRozan;Patty Mills
+Rudy Gay;Marco Belinelli;Patty Mills;Davis Bertans;Jakob Poeltl
+LaMarcus Aldridge;Rudy Gay;DeMar DeRozan;Patty Mills;Bryn Forbes
+LaMarcus Aldridge;Marco Belinelli;DeMar DeRozan;Patty Mills;Davis Bertans
+Marco Belinelli;DeMar DeRozan;Patty Mills;Davis Bertans;Jakob Poeltl
+Kyle Lowry;Serge Ibaka;Danny Green;Kawhi Leonard;Pascal Siakam
+Kyle Lowry;Serge Ibaka;Danny Green;Pascal Siakam;Fred VanVleet
+Serge Ibaka;Danny Green;Kawhi Leonard;Pascal Siakam;Fred VanVleet
+Kyle Lowry;Marc Gasol;Danny Green;Kawhi Leonard;Pascal Siakam
+Kyle Lowry;Danny Green;Jonas Valanciunas;Kawhi Leonard;Pascal Siakam
+Ricky Rubio;Derrick Favors;Rudy Gobert;Joe Ingles;Donovan Mitchell
+Ricky Rubio;Jae Crowder;Rudy Gobert;Joe Ingles;Donovan Mitchell
+Kyle Korver;Jae Crowder;Rudy Gobert;Royce O'Neale;Donovan Mitchell
+Ricky Rubio;Jae Crowder;Rudy Gobert;Royce O'Neale;Donovan Mitchell
+Derrick Favors;Rudy Gobert;Joe Ingles;Royce O'Neale;Donovan Mitchell
+Jae Crowder;Rudy Gobert;Joe Ingles;Royce O'Neale;Donovan Mitchell
+Trevor Ariza;Jeff Green;Bradley Beal;Tomas Satoransky;Thomas Bryant
+Trevor Ariza;Jeff Green;Bradley Beal;Tomas Satoransky;Bobby Portis
+Bradley Beal;Tomas Satoransky;Bobby Portis;Thomas Bryant;Troy Brown Jr.
+Dwight Howard;John Wall;Markieff Morris;Bradley Beal;Otto Porter Jr.
+Trevor Ariza;Jeff Green;Bradley Beal;Tomas Satoransky;Otto Porter Jr.
